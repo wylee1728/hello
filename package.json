@@ -1,0 +1,22 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "git hello",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wylee1728/hello.git"
+  },
+  "keywords": [
+    "git"
+  ],
+  "author": "willy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wylee1728/hello/issues"
+  },
+  "homepage": "https://github.com/wylee1728/hello#readme"
+}
